@@ -1,7 +1,7 @@
 # 📊 Investment Preferences and Behaviors of METU Students
 
 ### 📝 Project Overview
-This study examines the spending habits, risk appetite and investment preferences of students at Middle East Technical University (METU). Supported by **ADIMODTU**, the research analyzes data from **700+ respondents** to understand how demographic traits and financial literacy impact investment decisions.
+This study examines the spending habits, risk appetite and investment preferences of students at Middle East Technical University (METU). Supported by **ADIMODTU**, the research analyzes data from **800+ respondents** to understand how demographic traits and financial literacy impact investment decisions.
 
 ### 🖼️ Project Poster
 ![Project Poster](Images/Presentation_Poster.png) 
